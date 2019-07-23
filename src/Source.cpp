@@ -16,8 +16,8 @@ int main()
 	myVector2.push_back(4);
 	myVector2.push_back(6);
 	myVector2.push_back(3);
-	for (int i = 0; i < myVector.size(); i++)
-		cout <<"v2_"<< myVector.at(i) << endl;
+	for (int i = 0; i < myVector2.size(); i++)
+		cout <<"v2_"<< myVector2.at(i) << endl;
 		Sp<int> c(1);
 		TVector<int> sm(1);
 		sm.operation(myVector, myVector2);
