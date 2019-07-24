@@ -2,10 +2,6 @@
 #include <vector>
 #include <stack>
 
-#include "Sp.h"
-#include "TVector.h"
-#include "Bit.h"
-
 using namespace std;
 
 void swaping(const vector<int>& a, const vector<int>& b) {
